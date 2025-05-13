@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Arthur Santos PAIVA, tenho 20 anos e sou de Boa Vista - Roraima. Concluí o ensino médio no IFRR, com o curso técnico em Serviços Públicos. Atualmente, estou cursando Ciência da Computação na UFRR. Sou fanático por tecnologia e gosto de aprender muito mais sobre a área!
+Me chamo Arthur Santos Paiva, tenho 20 anos e sou de Boa Vista - Roraima. Concluí o ensino médio no IFRR, com o curso técnico em Serviços Públicos. Atualmente, estou cursando Ciência da Computação na UFRR. Sou fanático por tecnologia e gosto de aprender muito mais sobre a área!
 
 <p>
   <div align="center">
