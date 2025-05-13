@@ -6,7 +6,7 @@ Me chamo Arthur Santos Paiva, tenho 20 anos e sou de Boa Vista - Roraima. Conclu
 
 <p>
   <div align="center">
-  <a href="https://www.linkedin.com/in/arthur-paiva-647513327" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paivaarthur" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/paivxp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </a>
   </a> 
