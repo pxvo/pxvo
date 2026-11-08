@@ -1,10 +1,5 @@
-<h1 align="center">👨🏻‍💻 Arthur Paiva</h1>
 <p align="center">
-  <b>Desenvolvedor Front-End | Estudante de Ciência da Computação</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+@+UFRR;Criando+solu%C3%A7%C3%B5es+e+interfaces" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arthur%20Paiva&fontSize=50&fontColor=36BCF7&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-End%20|%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descSize=16&descAlignY=58" />
 </p>
 
 <p align="center">
@@ -25,32 +20,26 @@
 
 Olá! 👋 Me chamo **Arthur Santos Paiva**, tenho 20 anos e sou de **Boa Vista - Roraima** 🇧🇷.
 
-- 🎓 Concluí o Ensino Médio/Técnico em Serviços Públicos no **IFRR**.
+- 🎓 Concluí o Ensino Médio/Técnico no **IFRR**.
 - 💻 Atualmente cursando **Ciência da Computação na UFRR**.
-- 🌱 Focado em **Desenvolvimento Front-End**, aprendendo e criando novas tecnologias constantemente.
-- ⚡ Apaixonado por inovação, tecnologia e por transformar ideias em código.
+- 🌱 Focado em **Desenvolvimento Front-End**, criando interfaces modernas e responsivas.
+- ⚡ Apaixonado por tecnologia, inovação e por transformar ideias em código.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <img alt="HTML5" title="HTML5" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  &nbsp;&nbsp;
-  <img alt="CSS3" title="CSS3" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  &nbsp;&nbsp;
-  <img alt="JavaScript" title="JavaScript" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  &nbsp;&nbsp;
-  <img alt="Python" title="Python" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,vscode" />
+</p>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pxvo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxvo&layout=compact&theme=tokyonight" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pxvo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxvo&layout=compact&theme=tokyonight" />
 </div>
 
 <br/>
@@ -59,38 +48,24 @@ Olá! 👋 Me chamo **Arthur Santos Paiva**, tenho 20 anos e sou de **Boa Vista 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pxvo&theme=tokyonight" />
 </div>
 
----
-
-### 🏆 GitHub Status
-
-<div align="center">
-  <a href="https://github.com/pxvo?tab=repositories">
-    <img src="https://img.shields.io/badge/Estrelas-55960c?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/pxvo?tab=followers">
-    <img src="https://img.shields.io/badge/Seguidores-236ad3?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
-
-### 🏆 GitHub Status
-
-<div align="center">
-  <a href="https://github.com/pxvo?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/pxvo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" />
-  </a>
-  <a href="https://github.com/pxvo?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/pxvo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-  </a>
-</div>
-
 <br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pxvo&theme=tokyonight&hide_border=true" />
+</div>
+
+---
 
 <div align="center">
 
 > 💡 *"A tecnologia é uma ferramenta poderosa para transformar ideias em realidade."*
 
+<br/>
+
 ⭐ **Sempre aprendendo. Sempre evoluindo. Sempre criando.**
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20&height=70&section=footer" />
+</p>
