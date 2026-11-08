@@ -49,14 +49,27 @@ Olá! 👋 Me chamo **Arthur Santos Paiva**, tenho 20 anos e sou de **Boa Vista 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pxvo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxvo&layout=compact&langs_count=8&theme=github_dark&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pxvo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxvo&layout=compact&theme=tokyonight" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pxvo&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pxvo&theme=tokyonight" />
+</div>
+
+---
+
+### 🏆 GitHub Status
+
+<div align="center">
+  <a href="https://github.com/pxvo?tab=repositories">
+    <img src="https://img.shields.io/badge/Estrelas-55960c?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/pxvo?tab=followers">
+    <img src="https://img.shields.io/badge/Seguidores-236ad3?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ---
