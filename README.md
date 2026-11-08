@@ -1,6 +1,6 @@
 <h1 align="center">👨🏻‍💻 Arthur Paiva</h1>
 <p align="center">
-  <b>Desenvolvedor Front-End | Estudante de Ciência da Computação</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+@+UFRR;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,16 +31,16 @@ Olá! 👋 Me chamo **Arthur Santos Paiva**, tenho 20 anos e sou de **Boa Vista 
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,vscode" alt="Minhas Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,vscode&theme=dark" alt="Minhas Skills" />
 </p>
 
 ---
 
 <div align="center">
 
-> 💡 *"A tecnologia é uma ferramenta poderosa para transformar ideias em realidade."*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=500&color=F7DF1E&center=true&width=450&lines=%22A+tecnologia+transforma+ideias+em+realidade.%22" alt="Frase Animada" />
 
-<br/>
+<br/><br/>
 
 ⭐ **Sempre aprendendo. Sempre evoluindo. Sempre criando.**
 
