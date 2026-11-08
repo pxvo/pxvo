@@ -1,5 +1,6 @@
+<h1 align="center">👨🏻‍💻 Arthur Paiva</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arthur%20Paiva&fontSize=50&fontColor=36BCF7&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-End%20|%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descSize=16&descAlignY=58" />
+  <b>Desenvolvedor Front-End | Estudante de Ciência da Computação</b>
 </p>
 
 <p align="center">
@@ -30,29 +31,8 @@ Olá! 👋 Me chamo **Arthur Santos Paiva**, tenho 20 anos e sou de **Boa Vista 
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,vscode" alt="Minhas Skills" />
 </p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pxvo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxvo&layout=compact&theme=tokyonight" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pxvo&theme=tokyonight" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pxvo&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
@@ -65,7 +45,3 @@ Olá! 👋 Me chamo **Arthur Santos Paiva**, tenho 20 anos e sou de **Boa Vista 
 ⭐ **Sempre aprendendo. Sempre evoluindo. Sempre criando.**
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=6,11,20&height=70&section=footer" />
-</p>
